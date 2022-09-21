@@ -1,0 +1,23 @@
+WEB NASIL ÇALIŞIR?
+
+-Bir web sitesini ziyaret ettiğniizde,o siteyi barındıran web sunucusu dünyanın herhangi bir yerinde olabilir,web sunucusunun yerini bul
+mak için tarayıcınız ilk olarak "Domain Name System (DNS)"sunucusuna bağlanır.
+
+-Bu sayfada ziyaret ettiğniz web sitesini barındıran                   *Barselona'daki bir kullanıcı Tokyo'daki sony.jp'yi ziyaret ediyor.
+web sunucusunun nasıl dünyanın herhangi bir yerinde                    *NYCdeki bir kullanıcı SanFrancisco'daki google.com'u ziyaret ediyor.
+olabileceğini gösteren örnek görebilirsiniz.DNS sunu
+cuları tarayıcınıza bir web sitesinin nasıl bulunaca
+ğını söyler.
+
+
+1-Web'e bağlandıgınız zaman bunu bir İnternet Servis Sağlayıı(ISS) ile yaparsınız.Bir web sitesini ziyaret etmek istediğinzde tarayıcınızda bir
+alan adı veya web adresi yazarsınız.
+
+2-Bilgisayarınız "Domain Name System(DNS)" adı verilen sunuculardan oluşmuş bir ağ ile iletişim kurar.Bu bir telefon rehberi gibidir ve size
+tallep edilen alan adı ile ilişkili IP adresini söyler.IP adresi noktalara bölümlenmiş 12 dijitten oluşan bir sayıdır.Web'e bağlı her aygıtın
+tekil bir IP adresi vardır;o bilgisayar için telefon num gibidir.
+
+3-DNS sunucusunun bilgisayarınıza döndürdüğü tekil IP numarası tarayıcınız talep ettiği web sayfasının barındırıldığı web sunucusuna bağlanmasını sağlar.
+Bir web sunucusu sürekli internete bağlı bir bilgisayardır ve kullanıcılarına web sayfalarını göndermek için özel olarak ayarlanmıştır.
+
+4-Web sunucusu talep ettiğniz web sayfasını sizin web tarayıcınıza gönderir.
